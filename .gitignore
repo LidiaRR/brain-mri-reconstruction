@@ -4,3 +4,5 @@ nii_imgs/
 .vscode/
 ibsr kaggle readme
 test.py
+blender_files
+__pycache__
