@@ -1,3 +1,5 @@
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 from train.load_datasets import load_datasets
 from train.train_model import train_model
 
